@@ -12,3 +12,6 @@
 
 ### Fortuna Diaria
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/martinmol2007/martinmol2007/main/metrics.plugin.fortune.svg" alt="Fortune">
+</div>
