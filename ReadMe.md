@@ -6,4 +6,6 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)  
 
 
-![Isocalendar](https://raw.githubusercontent.com/martinmol2007/martinmol2007/main/metrics.plugin.isocalendar.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/martinmol2007/martinmol2007/main/metrics.plugin.isocalendar.svg" alt="Isocalendar">
+</div>
