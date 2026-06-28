@@ -21,3 +21,11 @@ jobs:
           config_timezone: Europe/Madrid
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+ # Imagen 2: fortune
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.fortune.svg
+          token: NOT_NEEDED
+          user: martinmol2007
+          base: ""
+          plugin_fortune: yes
