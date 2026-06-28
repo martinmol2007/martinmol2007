@@ -19,6 +19,7 @@
   <img src="https://raw.githubusercontent.com/martinmol2007/martinmol2007/main/metrics.plugin.stars.svg" alt="Stars">
 </div>
 
+![Discord](https://dcbadge.limes.pink/api/shield/501077743807496212?style=flat)
 ---
 <details>
   <summary>🥠 Fortuna 🥠</summary>
