@@ -12,6 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
+# Imagen 1: Commits
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
@@ -21,7 +22,7 @@ jobs:
           config_timezone: Europe/Madrid
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
- # Imagen 2: fortune
+ # Imagen 2: Fortuna
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.fortune.svg
@@ -31,7 +32,6 @@ jobs:
           plugin_fortune: yes
 
 # Imagen 3: Estrellas recientes
-    
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.stars.svg
