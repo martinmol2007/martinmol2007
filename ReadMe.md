@@ -1,6 +1,6 @@
 # martinmol
 
-✨ Estudiante de Ingeniería Informática en la FIB.  
+🔬 Estudiante de Ingeniería Informática en la FIB.  
 📍 España.
 
 ## Lenguajes
