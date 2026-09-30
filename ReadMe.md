@@ -5,7 +5,7 @@
 
 ## Lenguajes
 
-[![Skills](https://skillicons.dev/icons?i=cpp,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,c,github)](https://skillicons.dev)
 
 ## Actividad
 
