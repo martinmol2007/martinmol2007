@@ -5,7 +5,7 @@
 
 ## Lenguajes
 
-[![Skills](https://skillicons.dev/icons?i=cpp,c,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,c,bash,github)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=martinmol2007&color=brightgreen&style=flat)
 
