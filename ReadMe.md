@@ -1,31 +1,28 @@
-# martinmol
+<br clear="both">
 
-🔬 Estudiante de Ingeniería Informática en la FIB.  
-📍 España.
-
-## Lenguajes
-
-[![Skills](https://skillicons.dev/icons?i=cpp,c,bash,github)](https://skillicons.dev)
-
-![](https://komarev.com/ghpvc/?username=martinmol2007&color=brightgreen&style=flat)
-
-## Actividad
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/martinmol2007/martinmol2007/main/metrics.plugin.isocalendar.svg" alt="Isocalendar">
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/martin-molina-160948380/?isSelfProfile=true" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="martinmol" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 
-## Stars recientes
+###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/martinmol2007/martinmol2007/main/metrics.plugin.stars.svg" alt="Stars">
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/martinmol2007/martinmol2007/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/martinmol2007/martinmol2007/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/martinmol2007/martinmol2007/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
 
-![status](https://dcbadge.limes.pink/api/shield/501077743807496212?style=flat)
----
-<details>
-  <summary>🥠 Fortuna 🥠</summary>
-    <div>
-      <img src="https://raw.githubusercontent.com/martinmol2007/martinmol2007/main/metrics.plugin.fortune.svg" alt="Fortune">
-    </div>
-</details>
+###
